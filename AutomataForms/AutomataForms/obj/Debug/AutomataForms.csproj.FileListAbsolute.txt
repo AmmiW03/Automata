@@ -1,0 +1,11 @@
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\bin\Debug\AutomataForms.exe.config
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\bin\Debug\AutomataForms.exe
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\bin\Debug\AutomataForms.pdb
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.csproj.AssemblyReference.cache
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.Form1.resources
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.Properties.Resources.resources
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.csproj.GenerateResource.cache
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.exe
+C:\Users\EQUIPO-12\source\repos\AutomataForms\AutomataForms\obj\Debug\AutomataForms.pdb
